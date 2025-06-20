@@ -19,9 +19,6 @@ This project performs Exploratory Data Analysis (EDA) and visualization on the f
 
 ### ✅ 1. Passenger Class Distribution
 - Shows the number of passengers in each class (1 = Upper, 2 = Middle, 3 = Lower)
-- **Visualization**:
-  
-  ![Passenger Class Distribution](class_distribution.png)
 
 ### ✅ 2. Survival by Gender
 - Compares male and female survival counts
